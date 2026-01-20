@@ -9,5 +9,3 @@
 ### Split
 
 - Basic 80-20 training-validation for small datasets
-
-### KV Caching
